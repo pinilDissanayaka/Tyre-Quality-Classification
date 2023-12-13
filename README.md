@@ -5,6 +5,7 @@ Developing an automated system for the detection of defective tyres using a data
 
 ## Dataset Overview:
 The dataset consists of digital images of individual tyres, each labeled as either defective or in good condition. This collection provides a valuable resource for researchers, practitioners, and professionals in transportation, automotive industries, and quality control.
+
 Dataset URL : https://www.kaggle.com/datasets/warcoder/tyre-quality-classification
 
 ## Impact:
